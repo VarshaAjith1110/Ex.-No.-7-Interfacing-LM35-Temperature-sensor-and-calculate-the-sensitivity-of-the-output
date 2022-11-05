@@ -249,8 +249,7 @@ SL NO	Temperature value in °C (T)	ADC VALUE (A)	Sensitivity
 Figure -09 graph between temperature values and ADC output 
 
 
-## Result :
-Temperature sensor LM35 is interfaced to LPC2148 and its output is measured 
+
 
 ## Output screen shots :
 ![te1](https://user-images.githubusercontent.com/94222288/200112941-3ab0106d-f277-4377-acc4-f2694cad67b2.png)
@@ -264,5 +263,7 @@ Temperature sensor LM35 is interfaced to LPC2148 and its output is measured
 
 ![te3](https://user-images.githubusercontent.com/94222288/200112960-dda560e6-dc8d-466c-9e68-1a2fceedb5fd.png)
 
+## Result :
+Temperature sensor LM35 is interfaced to LPC2148 and its output is measured 
 
 
